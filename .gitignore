@@ -1,0 +1,15 @@
+.next/
+node_modules/
+out/
+dist/
+coverage/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.local
+.env.*.local
+!.env.example
+*.log
+tsconfig.tsbuildinfo
